@@ -1,6 +1,9 @@
 # Livro de Receitas 
 
-Ola bem vindo ao meu livro de receitas!!
+Olá bem vindo ao meu livro de receitas!!
 
 - Strogonoff de Frango
-- Pave de Uva
+- Rocambole Recheado
+- Baião de Dois
+- Bolo de Brigadeiro
+- Pavê de Uva
